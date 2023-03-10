@@ -45,12 +45,12 @@ internal class Program {
 
         private statPintu currentStat = statPintu.Terkunci;
 
-        public class statTransition {
+        public class statTransition_1302210006 {
             public statPintu statAwal;
             public statPintu statAkhir;
             public Trigger trigger;
 
-            public statTransition(statPintu statAwal, statPintu statAkhir, Trigger trigger)
+            public statTransition_1302210006(statPintu statAwal, statPintu statAkhir, Trigger trigger)
             {
                 this.statAwal = statAwal;
                 this.statAkhir = statAkhir;
@@ -58,18 +58,18 @@ internal class Program {
             }
         }
 
-        statTransition[] transitions = new statTransition[]
+        statTransition_1302210006[] transitions = new statTransition_1302210006[]
         {
-            new statTransition(statPintu.Terkunci, statPintu.Terkunci, Trigger.kunciPintu),
-            new statTransition(statPintu.Terkunci, statPintu.Terbuka, Trigger.bukaPintu),
-            new statTransition(statPintu.Terbuka, statPintu.Terbuka, Trigger.bukaPintu),
-            new statTransition(statPintu.Terbuka, statPintu.Terkunci, Trigger.kunciPintu)
+            new statTransition_1302210006(statPintu.Terkunci, statPintu.Terkunci, Trigger.kunciPintu),
+            new statTransition_1302210006(statPintu.Terkunci, statPintu.Terbuka, Trigger.bukaPintu),
+            new statTransition_1302210006(statPintu.Terbuka, statPintu.Terbuka, Trigger.bukaPintu),
+            new statTransition_1302210006(statPintu.Terbuka, statPintu.Terkunci, Trigger.kunciPintu)
         };
 
         private statPintu GetNextStat(statPintu statAwal, Trigger trigger) {
             statPintu statAkhir = statAwal;
             for (int i = 0; i < transitions.Length; i++) {
-                statTransition update = transitions[i];
+                statTransition_1302210006 update = transitions[i];
 
                 if (statAwal == update.statAwal && trigger == update.trigger) { 
                     statAkhir = update.statAkhir;
