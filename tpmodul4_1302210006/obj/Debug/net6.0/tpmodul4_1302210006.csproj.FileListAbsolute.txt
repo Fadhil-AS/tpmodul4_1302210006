@@ -1,0 +1,15 @@
+D:\Document\telkom\Semester4\konstruksi-perangkat-lunak\praktikum\tpmodul4_1302210006\tpmodul4_1302210006\obj\Debug\net6.0\tpmodul4_1302210006.csproj.AssemblyReference.cache
+D:\Document\telkom\Semester4\konstruksi-perangkat-lunak\praktikum\tpmodul4_1302210006\tpmodul4_1302210006\obj\Debug\net6.0\tpmodul4_1302210006.GeneratedMSBuildEditorConfig.editorconfig
+D:\Document\telkom\Semester4\konstruksi-perangkat-lunak\praktikum\tpmodul4_1302210006\tpmodul4_1302210006\obj\Debug\net6.0\tpmodul4_1302210006.AssemblyInfoInputs.cache
+D:\Document\telkom\Semester4\konstruksi-perangkat-lunak\praktikum\tpmodul4_1302210006\tpmodul4_1302210006\obj\Debug\net6.0\tpmodul4_1302210006.AssemblyInfo.cs
+D:\Document\telkom\Semester4\konstruksi-perangkat-lunak\praktikum\tpmodul4_1302210006\tpmodul4_1302210006\obj\Debug\net6.0\tpmodul4_1302210006.csproj.CoreCompileInputs.cache
+D:\Document\telkom\Semester4\konstruksi-perangkat-lunak\praktikum\tpmodul4_1302210006\tpmodul4_1302210006\bin\Debug\net6.0\tpmodul4_1302210006.exe
+D:\Document\telkom\Semester4\konstruksi-perangkat-lunak\praktikum\tpmodul4_1302210006\tpmodul4_1302210006\bin\Debug\net6.0\tpmodul4_1302210006.deps.json
+D:\Document\telkom\Semester4\konstruksi-perangkat-lunak\praktikum\tpmodul4_1302210006\tpmodul4_1302210006\bin\Debug\net6.0\tpmodul4_1302210006.runtimeconfig.json
+D:\Document\telkom\Semester4\konstruksi-perangkat-lunak\praktikum\tpmodul4_1302210006\tpmodul4_1302210006\bin\Debug\net6.0\tpmodul4_1302210006.dll
+D:\Document\telkom\Semester4\konstruksi-perangkat-lunak\praktikum\tpmodul4_1302210006\tpmodul4_1302210006\bin\Debug\net6.0\tpmodul4_1302210006.pdb
+D:\Document\telkom\Semester4\konstruksi-perangkat-lunak\praktikum\tpmodul4_1302210006\tpmodul4_1302210006\obj\Debug\net6.0\tpmodul4_1302210006.dll
+D:\Document\telkom\Semester4\konstruksi-perangkat-lunak\praktikum\tpmodul4_1302210006\tpmodul4_1302210006\obj\Debug\net6.0\refint\tpmodul4_1302210006.dll
+D:\Document\telkom\Semester4\konstruksi-perangkat-lunak\praktikum\tpmodul4_1302210006\tpmodul4_1302210006\obj\Debug\net6.0\tpmodul4_1302210006.pdb
+D:\Document\telkom\Semester4\konstruksi-perangkat-lunak\praktikum\tpmodul4_1302210006\tpmodul4_1302210006\obj\Debug\net6.0\tpmodul4_1302210006.genruntimeconfig.cache
+D:\Document\telkom\Semester4\konstruksi-perangkat-lunak\praktikum\tpmodul4_1302210006\tpmodul4_1302210006\obj\Debug\net6.0\ref\tpmodul4_1302210006.dll
